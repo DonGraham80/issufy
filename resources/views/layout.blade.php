@@ -63,12 +63,12 @@
 
             <ul class="nav">
                 <li class="active">
-                    <a href="intro">
+                    <a href="http://freedomroofers.com/don/issufy/intro">
                         <i class="pe-7s-graph"></i>
                         <p>Introduction</p>
                     </a>
                     
-                    <a href="customers">
+                    <a href="http://freedomroofers.com/don/issufy/customers">
                         <i class="pe-7s-graph"></i>
                         <p>Customers</p>
                     </a>
